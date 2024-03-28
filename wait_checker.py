@@ -13,7 +13,7 @@ sender_email = "example@gmail.com"
 receiver_email = 'example@gmail.com'
 
 # For password, you're required to use app password. Take a look at that here: https://www.youtube.com/watch?v=Y_u5KIeXiVI
-password = "yvgeixzaakzfndan"
+password = "password"
 
 email_subject = "Subject Example"
 email_body = "Body Example"
